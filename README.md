@@ -10,4 +10,3 @@ This is a full-stack To-Do application built using the **MERN stack** (MongoDB, 
 - 💻 Frontend built with React and MUI
 - 🌐 RESTful API integration with Axios
 
-## Folder Structure
